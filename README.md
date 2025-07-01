@@ -1,3 +1,4 @@
+
 # Smart Shopping System
 
 This project contains a FastAPI backend and a React frontend for customer profiling and analytics.
