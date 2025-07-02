@@ -20,4 +20,4 @@ npm run dev
 
 ## Chatbot
 
-Both the seller and customer dashboards now include a simple chatbot. Type a question such as `top categories` or `review score` to see data driven responses.
+Both the seller and customer dashboards now include a simple chatbot. Type a question such as `top categories` or `review score` to see data-driven responses.
